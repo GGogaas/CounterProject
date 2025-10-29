@@ -1,93 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\woj33\\source\\repos\\Counter\\",
+  "WorkspaceRootPath": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\editcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\editcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\editcounterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\editcounterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\counterslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\counterslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\counterslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\counterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\editcounterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\editcounterlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\editcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\editcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\counterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\counterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\icounterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\icounterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\icounterstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\editcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\editcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\editcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\models\\hextocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\models\\hextocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\models\\hextocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\counter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\counter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\counter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\addcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\addcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\addcounterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\addcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\addcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\addcounterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\source\\repos\\counter\\counter\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|c:\\users\\woj33\\onedrive\\dokumenty\\github\\counterproject\\counter\\counter\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B212439B-BE14-4997-96DB-0E25056441F8}|Counter\\Counter.csproj|solutionrelative:counter\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,158 +97,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CounterModel.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CounterModel.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CounterModel.cs",
               "RelativeDocumentMoniker": "Counter\\models\\CounterModel.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CounterModel.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CounterModel.cs",
               "RelativeToolTip": "Counter\\models\\CounterModel.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:14:49.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:14:49.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CountersLogic.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CountersLogic.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CountersLogic.cs",
               "RelativeDocumentMoniker": "Counter\\models\\CountersLogic.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CountersLogic.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CountersLogic.cs",
               "RelativeToolTip": "Counter\\models\\CountersLogic.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T21:45:14.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EditCounterLogic.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\EditCounterLogic.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\EditCounterLogic.cs",
               "RelativeDocumentMoniker": "Counter\\models\\EditCounterLogic.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\EditCounterLogic.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\EditCounterLogic.cs",
               "RelativeToolTip": "Counter\\models\\EditCounterLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T21:46:49.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T21:46:49.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CounterStore.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CounterStore.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CounterStore.cs",
               "RelativeDocumentMoniker": "Counter\\models\\CounterStore.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\CounterStore.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\CounterStore.cs",
               "RelativeToolTip": "Counter\\models\\CounterStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T21:20:05.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T21:20:05.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ICounterStore.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\ICounterStore.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\ICounterStore.cs",
               "RelativeDocumentMoniker": "Counter\\models\\ICounterStore.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\ICounterStore.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\ICounterStore.cs",
               "RelativeToolTip": "Counter\\models\\ICounterStore.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T21:14:05.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T21:14:05.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Counter\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\MauiProgram.cs",
               "RelativeToolTip": "Counter\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T06:50:14.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T06:50:14.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EditCounterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\EditCounterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\EditCounterPage.xaml",
               "RelativeDocumentMoniker": "Counter\\views\\EditCounterPage.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\EditCounterPage.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\EditCounterPage.xaml",
               "RelativeToolTip": "Counter\\views\\EditCounterPage.xaml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T06:54:12.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:54:12.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "EditCounterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\EditCounterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\EditCounterPage.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\views\\EditCounterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\EditCounterPage.xaml.cs*",
-              "RelativeToolTip": "Counter\\views\\EditCounterPage.xaml.cs*",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\EditCounterPage.xaml.cs",
+              "RelativeToolTip": "Counter\\views\\EditCounterPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:08:12.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:08:12.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CounterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\CounterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\CounterPage.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\views\\CounterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\CounterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\CounterPage.xaml.cs",
               "RelativeToolTip": "Counter\\views\\CounterPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T06:57:49.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:57:49.226Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CounterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\CounterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\CounterPage.xaml",
               "RelativeDocumentMoniker": "Counter\\views\\CounterPage.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\CounterPage.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\CounterPage.xaml",
               "RelativeToolTip": "Counter\\views\\CounterPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T06:51:20.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T06:51:20.707Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "HexToColorConverter.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\HexToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\HexToColorConverter.cs",
               "RelativeDocumentMoniker": "Counter\\models\\HexToColorConverter.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\models\\HexToColorConverter.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\models\\HexToColorConverter.cs",
               "RelativeToolTip": "Counter\\models\\HexToColorConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T18:19:10.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T18:19:10.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\AppShell.xaml.cs",
               "RelativeToolTip": "Counter\\AppShell.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,9 +248,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\App.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\App.xaml.cs",
               "RelativeToolTip": "Counter\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,9 +260,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\AppShell.xaml",
               "RelativeDocumentMoniker": "Counter\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\AppShell.xaml",
               "RelativeToolTip": "Counter\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -283,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Counter.csproj",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\Counter.csproj",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\Counter.csproj",
               "RelativeDocumentMoniker": "Counter\\Counter.csproj",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\Counter.csproj",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\Counter.csproj",
               "RelativeToolTip": "Counter\\Counter.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -295,9 +284,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\App.xaml",
               "RelativeDocumentMoniker": "Counter\\App.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\App.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\App.xaml",
               "RelativeToolTip": "Counter\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -308,9 +297,9 @@
               "DocumentIndex": 15,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\Counter\\Counter\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwEQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T07:06:43.091Z"
@@ -319,9 +308,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "AddCounterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\AddCounterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\AddCounterPage.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\views\\AddCounterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\AddCounterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\AddCounterPage.xaml.cs",
               "RelativeToolTip": "Counter\\views\\AddCounterPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,9 +320,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "AddCounterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\AddCounterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\AddCounterPage.xaml",
               "RelativeDocumentMoniker": "Counter\\views\\AddCounterPage.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\AddCounterPage.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\AddCounterPage.xaml",
               "RelativeToolTip": "Counter\\views\\AddCounterPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -343,9 +332,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\MainPage.xaml.cs",
               "RelativeToolTip": "Counter\\views\\MainPage.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,9 +344,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\MainPage.xaml",
               "RelativeDocumentMoniker": "Counter\\views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\views\\MainPage.xaml",
               "RelativeToolTip": "Counter\\views\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -367,9 +356,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "GlobalXmlns.cs",
-              "DocumentMoniker": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\GlobalXmlns.cs",
               "RelativeDocumentMoniker": "Counter\\GlobalXmlns.cs",
-              "ToolTip": "C:\\Users\\woj33\\source\\repos\\Counter\\Counter\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\woj33\\OneDrive\\Dokumenty\\GitHub\\CounterProject\\Counter\\Counter\\GlobalXmlns.cs",
               "RelativeToolTip": "Counter\\GlobalXmlns.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
