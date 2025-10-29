@@ -12,7 +12,7 @@ namespace Counter.models;
 public class CountersLogic
 {
     readonly ICounterStore _store;
-    bool _initialized;
+    
 
     public ObservableCollection<CounterModel> Items { get; } = new();
 
